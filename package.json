@@ -1,6 +1,6 @@
 {
-  "name": "libclang",
-  "version": "0.0.11",
+  "name": "mt-node-libclang",
+  "version": "1.0.0",
   "main": "libclang.js",
   "description": "Bindings to libclang",
   "keywords": [
@@ -11,9 +11,9 @@
   "author": "Timothy J Fontaine <tjfontaine@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "ffi": "",
-    "ref": "",
-    "ref-array": "",
-    "ref-struct": ""
+    "mt-node-ffi": "https://github.com/maketea-tech/mt-node-ffi.git",
+    "mt-node-ref": "https://github.com/maketea-tech/mt-node-ref.git",
+    "mt-node-ref-array": "https://github.com/maketea-tech/mt-node-ref-array.git",
+    "mt-node-ref-struct": "https://github.com/maketea-tech/mt-node-ref-struct.git"
   }
 }
