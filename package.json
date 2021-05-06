@@ -1,11 +1,11 @@
 {
   "name": "mt-node-libclang",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "libclang.js",
   "description": "Bindings to libclang",
   "keywords": [
     "libclang",
-    "ffi",
+    "mt-node-ffi",
     "bindings"
   ],
   "author": "Timothy J Fontaine <tjfontaine@gmail.com>",
